@@ -1,0 +1,6 @@
+Hi,
+
+Am getting permission denied when trying to copy public key from control server to node but am able to do ansible ping to local host
+I have added ansible ALL=(ALL:ALL) NOPASSWD:ALL
+
+Can you please help.
